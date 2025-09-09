@@ -59,6 +59,8 @@ To Be Completed
     pages     = {------}
 }
 ```
+## File Shared via Cloud Storage:   best_model.zip 
+Link: https://pan.baidu.com/s/18VZ5JVYCOiGBz9miHea26Q?pwd=9kbsExtraction Code: 9kbs
 
 ## Acknowledgement :pray:
 Our code is built on top of the [FLIP](https://github.com/koushiksrivats/FLIP) repository. We thank the authors for releasing their code.
