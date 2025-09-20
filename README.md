@@ -61,10 +61,10 @@ To Be Completed
 ```
 ## File Shared via Cloud Storage:    Benchmark-1-bestmodel and   Benchmark-2-bestmodel
 Benchmark-1-bestmodel.zip
-Link: https://pan.baidu.com/s/1uDlUR_5-SjC9eLYnS9KamQ?pwd=42um 提取码: 42um 
+Link: https://pan.baidu.com/s/1uDlUR_5-SjC9eLYnS9KamQ?pwd=42um extraction code: 42um 
 
 Benchmark-2-bestmodel.zip
-Link: https://pan.baidu.com/s/1mtCfPB4NjgTmIftEtjOaUA?pwd=7wy5 提取码: 7wy5 
+Link: https://pan.baidu.com/s/1mtCfPB4NjgTmIftEtjOaUA?pwd=7wy5 extraction code: 7wy5 
 
 
 ## Acknowledgement :pray:
