@@ -13,6 +13,7 @@ Enhanced Text Guidance and Alignment</strong></h2>
 
 ##  Updates :
 - 09-09-2025: Inference code has been released.
+- 20-09-2025: On Baidu Netdisk, share the optimal models based on Benchmark-1 and Benchmark-2.
 - The training code will be made publicly available on GitHub.
 
 
