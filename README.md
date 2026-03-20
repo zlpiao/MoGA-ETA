@@ -51,16 +51,13 @@ TODO: Integrate all the training scripts into one file and add configurable argu
 If you're using this work in your research or applications, please cite using this BibTeX:
 To Be Completed
 ```bibtex
-@ARTICLE{11361136,
+@article{zhang2026moga,
+  title={MoGA-ETA: Generalized Face Anti-Spoofing with Enhanced Text Guidance and Alignment},
   author={Zhang, Liepiao and Liu, Kun and Xie, Tianming and Huang, Junduan and Yu, Zitong and Kang, Wenxiong},
-  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science}, 
-  title={MoGA-ETA: Generalized Face Anti-Spoofing with Enhanced Text Guidance and Alignment}, 
+  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
   year={2026},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Faces;Visualization;Adaptation models;Training;Feature extraction;Face recognition;Data models;Contrastive learning;Electronic mail;Data mining},
-  doi={10.1109/TBIOM.2026.3657113}}
+  publisher={IEEE}
+}
 ```
 ## File Shared via Cloud Storage:    Benchmark-1-bestmodel and   Benchmark-2-bestmodel
 Benchmark-1-bestmodel.zip
