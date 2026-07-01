@@ -58,6 +58,16 @@ To Be Completed
   year={2026},
   publisher={IEEE}
 }
+
+@ARTICLE{11361136,
+  author={Zhang, Liepiao and Liu, Kun and Xie, Tianming and Huang, Junduan and Yu, Zitong and Kang, Wenxiong},
+  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science}, 
+  title={MoGA-ETA: Generalized Face Anti-Spoofing With Enhanced Text Guidance and Alignment}, 
+  year={2026},
+  volume={8},
+  number={3},
+  pages={340-353},
+  doi={10.1109/TBIOM.2026.3657113}}
 ```
 ## File Shared via Cloud Storage:    Benchmark-1-bestmodel and   Benchmark-2-bestmodel
 Benchmark-1-bestmodel.zip
