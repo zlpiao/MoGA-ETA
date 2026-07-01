@@ -51,14 +51,6 @@ TODO: Integrate all the training scripts into one file and add configurable argu
 If you're using this work in your research or applications, please cite using this BibTeX:
 To Be Completed
 ```bibtex
-@article{zhang2026moga,
-  title={MoGA-ETA: Generalized Face Anti-Spoofing with Enhanced Text Guidance and Alignment},
-  author={Zhang, Liepiao and Liu, Kun and Xie, Tianming and Huang, Junduan and Yu, Zitong and Kang, Wenxiong},
-  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
-  year={2026},
-  publisher={IEEE}
-}
-
 @ARTICLE{11361136,
   author={Zhang, Liepiao and Liu, Kun and Xie, Tianming and Huang, Junduan and Yu, Zitong and Kang, Wenxiong},
   journal={IEEE Transactions on Biometrics, Behavior, and Identity Science}, 
